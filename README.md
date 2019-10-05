@@ -1,5 +1,11 @@
 # Learn HTML
 
+- Download Free eBook: https://codingwithbasir.com/download
+- Fork and Clone This repository
+- Code Project A1
+- Send a Pull Request
+- Let me know to review your code: [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
+
 ## INTRODUCTION TO HTML
 
 [Project A1: Biography Page](project-html-a1-introduction)
@@ -19,7 +25,6 @@
 - Images
 - Image Alts
 - Videos
-- Review
 
 ## HTML DOCUMENT STANDARDS
 
@@ -53,7 +58,6 @@
 - Table Head
 - Table Footer
 - Styling with CSS
-- HTML Tables
 
 ## FORMS
 
@@ -74,7 +78,6 @@
 - Set a Minimum and Maximum
 - Checking Text Length
 - Matching a Pattern
-- Forms Review
 
 ## SEMANTIC WEB
 
@@ -85,4 +88,3 @@
 - Figure and Figcaption
 - Audio and Attributes
 - Video and Embed
-- Review
