@@ -1,4 +1,4 @@
-# Project HTML B1 HTML Document Standards
+# Project HTML C1 Tables
 
 To code this project you need to know :
 
