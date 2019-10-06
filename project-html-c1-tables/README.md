@@ -46,7 +46,7 @@ Math C 4.0
 
 6. Create another table to show student info.
 
-7. Add a table row with rowspan 3 to show:
+7. Add a table row with rowspan 2 to show:
    Name / Family
 
 8. Add a table row with 3 column:
