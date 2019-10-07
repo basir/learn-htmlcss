@@ -83,6 +83,8 @@
 
 ## SEMANTIC WEB
 
+[Project E1: OnePage Website](project-html-e1-semantic-web)
+
 - Why use Semantic HTML?
 - Header and Nav
 - Main and Footer
