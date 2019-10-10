@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Book Form</title>
+</head>
+<body>
+
+	<form action="book.php" method="POST">
+		<label for="firstName"> First Name:</label>
+		<input type="text" name="firstName" required>
+		<br>
+
+		<label for="lastName"> Last Name:</label>
+		<input type="text" name="lastName" required>
+		<br>
+
+		<label for="email">Email:</label>
+		<input type="Email" name="email">
+		<br>
+
+		<label for="phone">Phone:</label>
+		<input type="number" name="phone">
+		<br>
+
+		<label for="departureDate">Departure Date</label>
+		<input typed="date" name="departureDate">
+		<br>
+
+		<label for="departureTime">Departure Time:</label>
+		<input type="time" name="departureTime">
+		<br>
+
+		<label for="numberOfPersengers">Number of Persengers: </label>
+		<input type="number" name="numberOfPersengers" min="1" max="5">
+
+		<p>Types of Tickets includes:</p>
+		<input type = "radio" id= "economic" name= "tickets" value="tickets">
+		<label for ="tickets" > Economic </label>
+		<br>
+
+		<input type ="radio" id="business-class" name="tickets" value="tickets">
+		<label for ="tickets" >Business Class </label>
+		<br>
+
+		<input type="radio" id="first-class" name="tickets" value="business-class">
+		<label for="tickets">First Class </label>
+		<br>
+
+		<label for="gender">Gender</label>
+		<select id="gender" name="gender">
+			<option value="male">Male</option>
+			<option value="female">Female</option>
+			<option value="other">Other</option>
+		</select>
+
+		<br>
+
+		<label for = "features">Features includes </label>
+		<input type= "text" list= "feature" id= "features" name= "features">
+		<datalist id= "feature">
+			<option value = "TV"></option>
+			<option value = "Drink"></option>
+			<option value = "Food"></option>
+			<option value = "Launch"></option>
+		</datalist>
+		<br>
+
+		<label for="specialConditions">Special Condtion field: </label>
+		<br>
+
+		<textarea id="specialConditions" name="Condtion" rows="5" cols="30">Your special condtiions here please!</textarea>
+		<br>
+		<input type="checkbox" name="checkbox" value="checkbox">
+		<label for="checkbox">Accept Booking Conditions</label>
+		<br>
+		<input type="submit" value="Book">
+		<br>
+		<input type="reset" value="Clear">
+
+	</form>
+
+</body>
+</html>
