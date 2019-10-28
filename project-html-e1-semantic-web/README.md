@@ -1,15 +1,12 @@
 # Project HTML E1 Semantic Web
 
-To code this project you need to know :
-Why use Semantic HTML?
+Topics : Why use Semantic HTML?
 , Header and Nav
 , Main and Footer
 , The Aside Element
 , Figure and Figcaption
 , Audio and Attributes
 , Video and Embed
-
-If you are not familier with them download Learn HTML eBook from (https://codingwithbasir.com/learn-html)
 
 ## Project Title: OnePage Website
 
@@ -46,6 +43,10 @@ If you are not familier with them download Learn HTML eBook from (https://coding
 
 11. Add footer tage and enter "OnePage Website. All right reserved."
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

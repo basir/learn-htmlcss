@@ -1,8 +1,6 @@
 # Project HTML D1 Forms
 
-To code this project you need to know :
-
-Create a Table
+Topics : Create a Table
 How a Form Works
 , Text Input
 , Adding a Label
@@ -20,8 +18,6 @@ How a Form Works
 , Set a Minimum and Maximum
 , Checking Text Length
 , Matching a Pattern
-
-If you are not familier with them download Learn HTML eBook from (https://codingwithbasir.com/learn-html)
 
 ## Project Title: Booking Form
 
@@ -59,6 +55,10 @@ If you are not familier with them download Learn HTML eBook from (https://coding
 
 12. Set minimum and maximum for Number of Passengers to 1, 5.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

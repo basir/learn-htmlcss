@@ -1,8 +1,6 @@
 # Project HTML A1 Introduction
 
-To code this project you need to know: What is HTML, HTML Anatomy, The Body, HTML Structure, Headings, Divs, Attributes, Displaying Text, Styling Text, Line Breaks, Unordered Lists, Ordered Lists, Images, Image Alts, Videos
-
-If you are not familier with them download Learn HTML eBook from (https://codingwithbasir.com/learn-html)
+Topics: What is HTML, HTML Anatomy, The Body, HTML Structure, Headings, Divs, Attributes, Displaying Text, Styling Text, Line Breaks, Unordered Lists, Ordered Lists, Images, Image Alts, Videos
 
 ## Project Title: Biography Page
 
@@ -19,18 +17,22 @@ If you are not familier with them download Learn HTML eBook from (https://coding
 
 6. Create `h2` next to `p` tag with this content: `Achivements`.
 
-7) Create unordered list next to `h2` tag with this items: `Achivements 1`, `Achivements 2`, `Achivements 3`.
+7. Create unordered list next to `h2` tag with this items: `Achivements 1`, `Achivements 2`, `Achivements 3`.
 
-8) Create `h2` next to `ul` tag with this content: `Family Members`.
+8. Create `h2` next to `ul` tag with this content: `Family Members`.
 
-9) Create ordered list next to `h2` tag with this items: `Spounse: <Your-Spounse-Name>`, `Son: <Your-Son-Name>`, `Girl: <Your-Girl-Name>`.
+9. Create ordered list next to `h2` tag with this items: `Spounse: <Your-Spounse-Name>`, `Son: <Your-Son-Name>`, `Girl: <Your-Girl-Name>`.
 
-10) Create `h2` next to `ol` tag with this content: `My Photo`.
+10. Create `h2` next to `ol` tag with this content: `My Photo`.
 
-11) Create `img` next to `h2` tag and set src to `https://i.pravatar.cc/300`. Also set alt to `my photo`.
+11. Create `img` next to `h2` tag and set src to `https://i.pravatar.cc/300`. Also set alt to `my photo`.
 
-12) Create `video` next to `img` tag and set src to `https://youtu.be/t67_zAg5vvI`.
+12. Create `video` next to `img` tag and set src to `https://youtu.be/t67_zAg5vvI`.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download

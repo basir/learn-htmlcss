@@ -1,8 +1,6 @@
 # Project HTML C1 Tables
 
-To code this project you need to know :
-
-Create a Table
+Topics : Create a Table
 , Table Rows
 , Table Data
 , Table Headings
@@ -14,8 +12,6 @@ Create a Table
 , Table Footer
 , Styling with CSS
 , HTML Tables
-
-If you are not familier with them download Learn HTML eBook from (https://codingwithbasir.com/learn-html)
 
 ## Project Title: Student Transcript
 
@@ -57,6 +53,10 @@ Math C 4.0
 
 9. Add a table row to show data for above items.
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download
