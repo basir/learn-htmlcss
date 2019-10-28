@@ -1,4 +1,4 @@
-# Learn CSS
+# Learn HTML
 
 1. [Download free eBook](https://codingwithbasir.com/download)
 2. Code following projects
