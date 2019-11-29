@@ -1,4 +1,4 @@
-# Project HTML B1 HTML Document Standards
+# Project HTMLCSS B1 HTML Document Standards
 
 Topics: <html> tag
 , The Head

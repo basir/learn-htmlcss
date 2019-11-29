@@ -8,15 +8,36 @@
 
 ## Projects
 
-- [Project A1 Introduction ](project-html-a1-introduction)
+- [Project A1 Introduction ](project-htmlcss-a1-introduction)
 
-- [Project B1 HTML Document Standards ](project-html-b1-html-document-standards)
+- [Project B1 HTML Document Standards ](project-htmlcss-b1-htmlcss-document-standards)
 
-- [Project C1 Tables](project-html-c1-tables)
+- [Project C1 Tables](project-htmlcss-c1-tables)
 
-- [Project D1 Forms](project-html-d1-forms)
+- [Project D1 Forms](project-htmlcss-d1-forms)
 
-- [Project E1 Semantic Web](project-html-e1-semantic-web)
+- [Project E1 Semantic Web](project-htmlcss-e1-semantic-web)
+
+- [Project F1 Setup and Selectors ](project-htmlcss-f1-setup-and-selectors)
+
+- [Project G1 Visual Rules ](project-htmlcss-g1-visual-rules)
+
+- [Project H1 Box Model](project-htmlcss-h1-box-model)
+
+- [Project I1 Display Positioning](project-htmlcss-i1-display-positioning)
+
+- [Project J1 Color](project-htmlcss-j1-color)
+
+- [Project J2 Typography](project-htmlcss-j2-typography)
+
+- [Project K1 Flexbox](project-htmlcss-k1-flexbox)
+
+- [Project L1 Grid](project-htmlcss-l1-grid)
+
+- [Project M1 Bootstrap Grid](project-htmlcss-m1-bootstrap-grid)
+
+- [Project N1 Bootstrap Utilites and Components](project-htmlcss-n1-bootstrap-utilities-components)
+-
 
 ## Want to get reviewed?
 

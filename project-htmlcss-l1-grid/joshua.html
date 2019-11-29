@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<style type="text/css">
+  div {
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .container {
+    display: grid;
+    gap: 10px;
+  }
+
+  .header {
+    grid-column: 1 / 4;
+    width: wrap;
+    background-color: gray;
+  }
+
+  .sidebar {
+    grid-row: 2 / 2;
+
+    grid-column: 1 / 1;
+    background-color: yellow;
+  }
+
+  .main {
+    grid-row: 2 / 3;
+    grid-column: 2 / 4;
+    background-color: green;
+  }
+
+  .footer {
+    grid-column: 1 / 4;
+    background-color: blue;
+  }
+</style>
+<html>
+  <head>
+    <title>Website Skeleton</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>Header</h1>
+      </div>
+      <div class="sidebar">
+        <h2>Sidebar</h2>
+      </div>
+      <div class="main">
+        <h3>Main</h3>
+      </div>
+      <div class="footer">
+        <h4>Footer</h4>
+      </div>
+    </div>
+  </body>
+</html>

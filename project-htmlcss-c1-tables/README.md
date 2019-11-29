@@ -1,4 +1,4 @@
-# Project HTML C1 Tables
+# Project HTMLCSS C1 Tables
 
 Topics : Create a Table
 , Table Rows

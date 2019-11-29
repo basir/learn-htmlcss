@@ -1,4 +1,4 @@
-# Project HTML A1 Introduction
+# Project HTMLCSS A1 Introduction
 
 Topics: What is HTML, HTML Anatomy, The Body, HTML Structure, Headings, Divs, Attributes, Displaying Text, Styling Text, Line Breaks, Unordered Lists, Ordered Lists, Images, Image Alts, Videos
 

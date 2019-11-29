@@ -1,4 +1,4 @@
-# Project HTML E1 Semantic Web
+# Project HTMLCSS E1 Semantic Web
 
 Topics : Why use Semantic HTML?
 , Header and Nav

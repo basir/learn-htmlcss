@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<style type="text/css">
+  div {
+    text-align: center;
+  }
+  .master {
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+  }
+
+  .child {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    left: 400px;
+    background-color: red;
+  }
+
+  .free-child {
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    background-color: green;
+    z-index: -1;
+  }
+
+  .strong-child {
+    width: 200px;
+    height: 150px;
+    position: fixed;
+    top: 100px;
+    left: 250px;
+    background-color: gray;
+  }
+
+  .block1 {
+    display: inline-block;
+    background-color: orange;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .block2 {
+    display: inline-block;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .block3 {
+    display: inline-block;
+    background-color: blue;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+  }
+
+  .footer1 {
+    width: 100px;
+    height: 200px;
+    background-color: red;
+  }
+
+  .footer2 {
+    float: right;
+    width: 100px;
+    height: 200px;
+    background-color: green;
+  }
+
+  .footer3 {
+    clear: right;
+
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+  }
+</style>
+<html>
+  <head>
+    <title>PUZZLE</title>
+  </head>
+  <body>
+    <div class="header">
+      <div class="master">master</div>
+      <div class="child">child</div>
+      <div class="free-child">free-child</div>
+      <div class="strong-child">strong-child</div>
+    </div>
+
+    <div class="content">
+      <div class="block1">block1</div>
+      <div class="block2">block2</div>
+      <div class="block3">block3</div>
+    </div>
+
+    <div class="footer">
+      <div class="footer1">footer1</div>
+      <div class="footer2">footer2</div>
+      <div class="footer3">footer3</div>
+    </div>
+  </body>
+</html>
