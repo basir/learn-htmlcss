@@ -13,7 +13,7 @@ Topics: The Box Model
 , Resetting Defaults
 , Visibility
 
-## Project Title: Windows
+## Project Title: Show Windows
 
 1. Create a html file with your name like `john.html`
 2. Add current code to that file:

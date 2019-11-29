@@ -1,4 +1,4 @@
-# Learn HTML
+# Learn HTML & CSS
 
 1. [Download free eBook](https://codingwithbasir.com/download)
 2. Code following projects
@@ -37,7 +37,6 @@
 - [Project M1 Bootstrap Grid](project-htmlcss-m1-bootstrap-grid)
 
 - [Project N1 Bootstrap Utilites and Components](project-htmlcss-n1-bootstrap-utilities-components)
--
 
 ## Want to get reviewed?
 
