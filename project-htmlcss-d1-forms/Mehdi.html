@@ -6,8 +6,8 @@
   </head>
   <body>
     <form action="book.php" type="post">
-      <input type="text" id="First Name" value="First Name" />
-      <input type="text" id="Last Name" value="Last Name" />
+      <input type="text" id="First Name" value="First Name" value="required" />
+      <input type="text" id="Last Name" value="Last Name" value="required" />
       <input type="email" id="Email" value="Email" />
       <input type="phone" id="phone" value="phone" />
       <input type="date" id="Departure Date" value="Departure Date" />
@@ -17,6 +17,8 @@
         type="number"
         id="Number Of Passengers"
         value="Number Of Passengers"
+        min="1"
+        max="5"
       />
     </form>
     <select name="Gender" id="Gender">
@@ -24,12 +26,17 @@
       <option value="Female">Female</option>
     </select>
 
-    <input list="Features" name="Feature" id="Feature">
+    <input list="Features" name="Feature" id="Feature" />
     <datalist id="Features">
-      <option value="TV">
-      <option value="Drink">
-      <option value="Food">
-      <option value="Launch">
+      <option value="TV"></option>
+      <option value="Drink"></option>
+      <option value="Food"></option>
+      <option value="Launch"></option>
     </datalist>
+
+    <textarea name="Special Conditions" id="" cols="30" rows="10"> </textarea>
+    <button type="Checkbox">Accept Booking conditions</button>
+    <button type="submit">Book</button>
+    <button type="reset">Clear</button>
   </body>
 </html>
