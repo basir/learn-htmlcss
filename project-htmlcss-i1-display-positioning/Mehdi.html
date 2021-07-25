@@ -29,6 +29,7 @@
     background-color: green;
     margin-top: 50px;
     margin-left: 150px;
+    z-index: initial;
   }
   .fixed-child {
     position: fixed;
@@ -36,19 +37,64 @@
     margin-top: 100px;
     margin-left: 250px;
   }
+  .A {
+    background-color: orange;
+  }
+  .B {
+    background-color: yellow;
+  }
+  .C {
+    background-color: blue;
+  }
+  .header {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+  }
+  .footer1 {
+    width: 100px;
+    height: 200px;
+    background-color: red;
+  }
+  .footer2 {
+    width: 100px;
+    height: 200px;
+    background-color: green;
+  }
+
+  .footer3 {
+    width: 100px;
+    height: 200px;
+    background-color: blue;
+  }
+  div {
+    text-align: center;
+  }
 </style>
 <html>
   <body>
     <!-- your html code here -->
     <div class="header">
-      <div class="static-child"></div>
-      <div class="relative-child"></div>
-      <div class="absolute-child"></div>
-      <div class="fixed-child"></div>
+      HELLO
+      <div class="absolute-child">HELLO</div>
+      <div class="static-child">HELLO</div>
+      <div class="relative-child">HELLO</div>
+
+      <div class="fixed-child">HELLO</div>
     </div>
-    <div class="Main"></div>
-    <div class="Submain"></div>
-    <div class="Pre-footer"></div>
-    <div class="Footer"></div>
+    <div class="content">
+      <div class="A">Block 1</div>
+      <div class="B">Block 2</div>
+      <div class="C">Block 3</div>
+    </div>
+    <div class="footer">
+      <div class="footer1"></div>
+      <div class="footer2"></div>
+      <div class="footer3"></div>
+    </div>
+    <div class="Main">HELLO</div>
+    <div class="Submain">HELLO</div>
+    <div class="Pre-footer">HELLO</div>
+    <div class="Footer">HELLO</div>
   </body>
 </html>
