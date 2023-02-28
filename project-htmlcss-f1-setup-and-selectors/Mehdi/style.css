@@ -1,0 +1,19 @@
+p {
+  font-weight: bold;
+}
+
+div {
+  color: brown;
+}
+
+.main {
+  font-style: italic;
+}
+
+#closing {
+  text-decoration: underline;
+}
+
+.list li {
+  color: green;
+}
